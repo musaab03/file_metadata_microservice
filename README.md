@@ -8,7 +8,8 @@
 
 # Tools and Technologies Used
 - HTML & CSS
-- JavaScript
+- Node.js
+- Express.js
 
 ## Author
 
