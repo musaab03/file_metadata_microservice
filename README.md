@@ -1,3 +1,18 @@
-# File Metadata Microservice
+<h1 align="center">Welcome to the File Metadata Microservice 👋</h1>
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+> Made for one of the projects in the Back End Development and APIs freeCodeCamp course
+
+### ✨ [Demo](https://build-a-file-metadata-microservice.mu668.repl.co/)
+
+![image](https://user-images.githubusercontent.com/103457332/236341609-ea3001c2-9ab5-4dbe-a506-382ce9d912a2.png)
+
+# Tools and Technologies Used
+- HTML & CSS
+- JavaScript
+
+## Author
+
+👤 **Musaab Uppal**
+
+* Github: [@musaab03](https://github.com/musaab03)
+* LinkedIn: [@musaab-uppal](https://linkedin.com/in/musaab-uppal)
