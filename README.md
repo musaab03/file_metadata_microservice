@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the File Metadata Microservice 👋</h1>
 
-> Made for one of the projects in the Back End Development and APIs freeCodeCamp course
+> Displays the metadata for a file you have uploaded, made for one of the projects in the Back End Development and APIs freeCodeCamp course
 
 ### ✨ [Demo](https://build-a-file-metadata-microservice.mu668.repl.co/)
 
